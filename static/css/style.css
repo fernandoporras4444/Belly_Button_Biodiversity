@@ -1,11 +1,10 @@
 body {
-
-  background-color: #06afbb;
-  }
+    background-color: #06afbb;
+    }
  
  .tag {
-     font-family: inherit; 
-     font-size: 1rem;
+    font-family: inherit; 
+    font-size: 1rem;
     }  
 
 .jumbotron {
@@ -15,11 +14,11 @@ body {
     }
 
 h1.heading-color {
-  color: white;
+    color: white;
     }
 
 p.para-color {
-  color: white;
+    color: white;
     }
 
 div.col-md-5 {
@@ -35,6 +34,5 @@ div.col-md-12 {
 div.col-md-2 {
     padding: 15px; 
     resize: auto;
-
-  }
+    }
     
