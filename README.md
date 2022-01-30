@@ -12,4 +12,4 @@ The purpose of the project was use bacterial data gathered from volunteers and p
 JavaScript, VS Code, Plotly, d3, HTML, Bootstrap, CSS, and JSON
 
 ## Results:
-The process of writing code and building a functional Belly Button Biodiversity Dashboard was achieved with the product of the dashboard images see below or by clicking on 
+The process of writing code and building a functional Belly Button Biodiversity Dashboard was achieved with the product of the dashboard images see below or by clicking on https://fernandoporras4444.github.io/Belly_Button_Biodiversity/
