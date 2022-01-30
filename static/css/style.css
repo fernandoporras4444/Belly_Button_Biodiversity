@@ -1,7 +1,6 @@
 body {
 
-    color: #000000;
-    background-color: rgb(255, 255, 255);
+  background-color: #06afbb;
   }
  
  .tag {
@@ -10,7 +9,32 @@ body {
     }  
 
 .jumbotron {
-    background-image: url("../images/bacteria.png");
+    background-image: url("../images/bacteria.jpg");
     background-size: 100% 100%;
     text-align: center;
+    }
+
+h1.heading-color {
+  color: white;
+    }
+
+p.para-color {
+  color: white;
+    }
+
+div.col-md-5 {
+    padding: 15px; 
+    resize: auto;
+    }
+
+div.col-md-12 {
+    padding: 15px; 
+    resize: auto;
+    }
+
+div.col-md-2 {
+    padding: 15px; 
+    resize: auto;
+
   }
+    
